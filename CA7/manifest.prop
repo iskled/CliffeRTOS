@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
+KERNEL_DT = ./DeviceTree/FreeRTOS/kernel
+OPTEE_DT = ./DeviceTree/FreeRTOS/optee-os
+UBOOT_DT = ./DeviceTree/FreeRTOS/u-boot
+TFA_DT = ./DeviceTree/FreeRTOS/tf-a
